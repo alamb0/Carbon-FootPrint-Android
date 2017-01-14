@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PollutionTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dist_reader">Map</string>
+</resources>
