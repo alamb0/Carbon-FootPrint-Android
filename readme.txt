@@ -3,4 +3,7 @@ This Android application is designed to provide an estimate of the amount of pol
 The app will need to use GoogleApiClient.
 
 Steps:
-Google Repository was installed for Android, along with tools for Android 7.1.1.
+Google Repository was installed for Android Studio, along with tools for Android 7.1.1.
+A Google API key was obtained.
+A Google Maps activity was created using Android Studio.
+
